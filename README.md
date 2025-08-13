@@ -21,13 +21,6 @@ This project involved setting up a simulated office network using Cisco Packet T
 - **Designed a LAN Network Topology**  
   Built a LAN using a two-layer hierarchical model in Packet Tracer, including core and access layers for scalability and manageability.
 
-## Repository Contents
-
-- `README.md` — Project overview and documentation.
-- `Screenshots/` — Images of the network design and Wazuh setup.
-- `PacketTracerFiles/` — Saved network topology files.
-- `Notes.txt` — Personal notes and observations from the project.
-
 ## What I Learned
 
 - Cisco Packet Tracer is a valuable tool for visualizing and testing network designs before physical implementation.
