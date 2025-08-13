@@ -21,7 +21,7 @@ This project involved setting up a simulated office network using Cisco Packet T
 - **Designed a LAN Network Topology**  
   Built a LAN using a two-layer hierarchical model in Packet Tracer, including core and access layers for scalability and manageability.
 
-## What I Learned
+## What We Learned
 
 - Cisco Packet Tracer is a valuable tool for visualizing and testing network designs before physical implementation.
 - Wazuh provides real-time security insights and is effective for monitoring systems and detecting threats.
